@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\n\nvar Error = function Error() {\n  return __jsx(\"p\", null, \"\\uC5D0\\uB7EC\\uAC00 \\uBC1C\\uC0DD \\uD588\\uC2B5\\uB2C8\\uB2E4.\");\n};\n\nexport default Error;","map":null,"metadata":{},"sourceType":"module"}

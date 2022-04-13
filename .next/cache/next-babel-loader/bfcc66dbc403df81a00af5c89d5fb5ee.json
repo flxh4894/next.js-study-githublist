@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\n\nvar NotFound = function NotFound() {\n  return __jsx(\"p\", null, \"\\uC548\\uB155\\uD558\\uC138\\uC694. 404 \\uD398\\uC774\\uC9C0 \\uC785\\uB2C8\\uB2E4.\");\n};\n\nexport default NotFound;","map":null,"metadata":{},"sourceType":"module"}
